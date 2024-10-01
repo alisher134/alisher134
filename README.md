@@ -1,4 +1,4 @@
-## Hi i am Фдшырук
+## Hi i am Alisher
 
 I started learning JS and React and couldn't stop.
 
