@@ -25,4 +25,5 @@ I am a React frontend developer from Almaty with experience in creating SPAs usi
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://www.prisma.io/images/favicon-32x32.png" width="36" height="36" alt="Prisma ORM" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" width="36" height="36" alt="Swagger" /></a>
 </p>
