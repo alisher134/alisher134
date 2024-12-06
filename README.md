@@ -1,45 +1,35 @@
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Привет! Добро пожаловать!
 
-# 👋 Привет! Добро пожаловать!  
+Welcome to my page!
 
-Меня зовут **Alisher**, я **Frontend Developer** из Алматы.  
-Люблю создавать крутые веб-приложения с современным дизайном и продуманной архитектурой.  
-
----
-
-## 💡 О себе  
-- 🌟 Специализируюсь на **React**, **Next.js**, **Nest.js**, **Redux (RTK)**, **TypeScript**  
-- 🎨 Работаю с анимациями и адаптивным дизайном на **SCSS**  
-- 📖 Постоянно развиваюсь в области Frontend и Backend (Nest.js, Prisma)  
-- 🚀 Участвую в создании open-source проектов  
+I'm **Alisher** and I'm a **Frontend developer**.
 
 ---
 
-## 🛠️ Мой стек технологий  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
+## 🛠️ Мой стек технологий
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Tanstack-Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 </p>
 
----
+## 📧 Контакты
 
-## 📈 GitHub статистика  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisher134&show_icons=true&theme=radical" alt="Статистика GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher134&layout=compact&theme=radical" alt="Топ языков" />
-</p>
-
----
-
-## 📬 Контакты  
-- 📧 **Email**: [alisherrakhmanov134@gmail.com](mailto:alisherrakhmanov134@gmail.com)
-
----
-
-> “Программирование — это не просто работа, это искусство.”  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" width="500"/>
-</p>
+- 📱 **Номер телефона**: +7 771 376 5732
+- 💬 **Telegram**: [@alisherr134](https://t.me/alisherr134)
+- ✉️ **Email**: alisherrakhmanov134@gmail.com
